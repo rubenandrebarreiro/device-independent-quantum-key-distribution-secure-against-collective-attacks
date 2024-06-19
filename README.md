@@ -1,2 +1,2 @@
-# Device-Independent Quantum Key Distribution (DI-QKD) Secure Against Collective Attacks
+# Device-Independent Quantum Key Distribution<br>(DI-QKD) Secure Against Collective Attacks
 ## (Analysis and Presentation)
