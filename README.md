@@ -16,17 +16,13 @@
 [![status of this version no. 3](https://img.shields.io/badge/status-unstable-orange.svg)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/)
 [![status of this version no. 4](https://img.shields.io/badge/status-not&nbsp;documented-orange.svg)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/)
 
-[![keyword of this version no. 1](https://img.shields.io/badge/keyword-classical&nbsp;post&nbsp;quantum&nbsp;cryptography-brown.svg)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/)
-[![keyword of this version no. 2](https://img.shields.io/badge/keyword-lattice&nbsp;based-brown.svg)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/)
-[![keyword of this version no. 3](https://img.shields.io/badge/keyword-kyber-brown.svg)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/)
-[![keyword of this version no. 4](https://img.shields.io/badge/keyword-dilithium-brown.svg)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/)
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-quantum&nbsp;cryptography-brown.svg)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-quantum&nbsp;key&nbsp;distribution-brown.svg)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-device&nbsp;independent&nbsp;quantum&nbsp;key&nbsp;distribution-brown.svg)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-bell&nbsp;inequality-brown.svg)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/)
 
-[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-jupyter&nbsp;notebook-red.svg)](https://www.jupyter.org/)
-[![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-sos&nbsp;notebook-red.svg)](https://vatlab.github.io/sos-docs/notebook.html)
-[![technology used no. 3](https://img.shields.io/badge/built&nbsp;with-java-red.svg)](http://www.java.com/)
-[![technology used no. 4](https://img.shields.io/badge/built&nbsp;with-python-red.svg)](https://www.python.org/)
-[![technology used no. 5](https://img.shields.io/badge/built&nbsp;with-bouncy&nbsp;castle-red.svg)](https://www.bouncycastle.org/)
-[![technology used no. 6](https://img.shields.io/badge/built&nbsp;with-tex-red.svg)](https://tug.org/texlive/)
+[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-python-red.svg)](https://www.python.org/)
+[![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-tex-red.svg)](https://tug.org/texlive/)
 
 [![tags](https://img.shields.io/github/tag/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks?include_prereleases=&sort=semver&color=blue)](https://github.com/rubenandrebarreiro/device-independent-quantum-key-distribution-secure-against-collective-attacks/releases/)
 [![license](https://img.shields.io/badge/License-MIT-blue)](#license)
